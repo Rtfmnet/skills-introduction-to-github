@@ -1,2 +1,2 @@
-Welcome to my GitHub profile! <br>
-Small fix
+Welcome to my GitHub profile!
+small comment from branch #2
